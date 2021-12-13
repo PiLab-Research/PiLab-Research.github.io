@@ -3,7 +3,7 @@ layout: archive
 title: "Customer service Empathy Assessment"
 collection: softwares
 permalink: /softwares/2018-09-01-paper-title-number-1
-date: 2018-09-01
+date: 2021-08-01
 
 ---
 
