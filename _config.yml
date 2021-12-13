@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PiLab-Research"
+title                    : "PI-Lab Research"
 title_separator          : " "
-name                     : &name "PiLab-Research"
+name                     : &name "PI-Lab Research"
 description              : &description "Pragmatic Intelligence Lab"
 url                      : https://PiLab-Research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pi-Lab Research"
+  name             : "PI-Lab Research"
   avatar           : "pilab.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
@@ -230,7 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true      
-  # _projects
+  # _softwares
   - scope:
       path: ""
       type: Softwares
