@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Members"
+    url: /members/
+
+  # - title: "Reading Group"
+  #   url: /reading/
+
