@@ -5,7 +5,6 @@ image: <img src='https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyad
 collection: members
 excerpt: Researchers
 website: "[Home page](https://tejasvaidhyadev.github.io/)"
-description: Tejas is currently in his senior year of undergraduate studies at Indian Institute of Technology, Kharagpur.
-The goal of his research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!
+description: Tejas is currently in his senior year of undergraduate studies at Indian Institute of Technology, Kharagpur.The goal of his research is to develop technologies and agents that can perceive their environment, reason about it, and communicate their understanding via natural language!
 ---
 
