@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "PiLab-Research"
 title_separator          : " "
 name                     : &name "PiLab-Research"
 description              : &description "Pragmatic Intelligence Lab"
@@ -30,7 +30,7 @@ comments:
     colorscheme          : #"dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" #, "gh-pages"
+  branch                 : "main" #,  "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
