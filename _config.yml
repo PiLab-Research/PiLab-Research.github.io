@@ -175,7 +175,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  softwares:
     output: true
     permalink: /:collection/:path/
   members:
@@ -233,7 +233,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: projects
+      type: Softwares
     values:
       layout: single
       author_profile: true
