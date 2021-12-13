@@ -27,6 +27,8 @@ We improve latency by multi-task learning the HuBert for Audio features as well 
 
 ## Dependencies:
 
+**GitHub**: [IA-for-AI](https://github.com/tejasvaidhyadev/IA-for-AI)
+
 We exported our conda environments for training the models and running the app.
 
 - `train_env.yml`: Our environment for training. Create using `conda env create --name prompt --file=train_env.yml` & `conda activate prompt`
