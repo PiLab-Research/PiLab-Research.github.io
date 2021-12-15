@@ -5,6 +5,6 @@ image: <img src='https://raw.githubusercontent.com/PiLab-Research/PiLab-Research
 collection: members
 excerpt: Researchers
 website: "[Home page](https://www.linkedin.com/in/faraazrm/)"
-description: Computational Social Choice, Graph Theory, Combinatorial Optimisation, Economics, ML.  
+description: Faraaz is a senior undergrad at IIT Kharagpur, pursuing a Bachelor's and Master's degree in Computer Science and Engineering. He is interested in Computational Social Choice, Graph Theory, Combinatorial Optimisation, Economics and NLP.  
 ---
 
